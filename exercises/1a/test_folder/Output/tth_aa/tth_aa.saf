@@ -1,0 +1,19 @@
+<SAFheader>
+</SAFheader>
+
+<SampleGlobalInfo>
+# xsection     xsection_error nevents        sum_weight+    sum_weight-    
+0.000000e+00   0.000000e+00   10             0.000000e+00   0.000000e+00   
+</SampleGlobalInfo>
+
+<FileInfo>
+"/root/cern_contributions/exercises/1a/tth_aa.root" # file 1 / 1
+</FileInfo>
+
+<SampleDetailedInfo>
+# xsection     xsection_error nevents        sum_weight+    sum_weight-    
+0              0              10             0              0               # file 1 / 1
+</SampleDetailedInfo>
+
+<SAFfooter>
+</SAFfooter>
